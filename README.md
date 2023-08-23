@@ -17,14 +17,21 @@ Los valores de las divisas fueron: Pesos Mexicanos, Dólar Estadounidense, Euro,
 ## 2. Qué construí
 
 En este proyecto el enfoque fue construir un menu donde se mostraran las opciones de conversion a las que tenia acceso el usuario, tal como se puede apreciar en la siguiente imagen.
+
 ![Menu](Images/menu.png)
+
 Después de seleccionar alguna opción se visualizaria una ventana emergente para ingresar el valor a convertir. En caso de haber ingresado un valor que no fuera numerico apareceria un mensaje advirtiendo al usuario.
+
 ![Input](Images/input.png)
 ![Error](Images/mensaje_error.png)
-Ens eguida se mostrarian las distintas opciones de conversión de las divisas que se podian realizar y al seleccionar alguna apareceria una ventana con el valor total de la conversion.
+
+Enseguida se mostrarian las distintas opciones de conversión de las divisas que se podian realizar y al seleccionar alguna apareceria una ventana con el valor total de la conversion.
+
 ![Opciones](Images/opciones.png)
 ![Resultado](Images/mensaje_resultado.png)
+
 Para finalizar aparece una ventana dando la opcion al usuario de seguir usando el programa o cerrarlo, si el usuario da clic en el boton de "Yes" volvera al menu del inicio y si da clic en cualquiera de los otros dos botones restantes, aparecera un mensaje advirtiendo al usuario que el programa ha finalizado.
+
 ![Continuacion](Images/continuacion.png)
 ![Finalizacion](Images/mensaje_finalizacion.png)
 
